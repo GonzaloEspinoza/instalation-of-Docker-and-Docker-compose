@@ -1,0 +1,14 @@
+{
+  "name": "estructura_docker-compose-start_proyect",
+  "version": "1.0.0",
+  "description": "api-rest inmuebles con docker-compose and nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Espinoza",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
